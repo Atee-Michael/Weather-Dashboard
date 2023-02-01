@@ -1,7 +1,7 @@
 # Weather-Dashboard
 
 ## Overview
-A simple weather app that displays the current weather and a 5 day forecast for a given city.
+A weather app that allows users to search for current weather and 5 day forecast data for a city.
 
 ## Usage
 Open index.html in a browser to use the app.
@@ -11,10 +11,10 @@ The app uses the OpenWeatherMap API to retrieve the weather data. When a city is
 The city search history is stored in the app and can be viewed by scrolling down the page.
 
 ## Built With
-OpenWeatherMap API
-HTML
-CSS
-JavaScript
+1. OpenWeatherMap API
+2. HTML
+3. CSS
+4. JavaScript
 
 ## Credits
 Not applicable
