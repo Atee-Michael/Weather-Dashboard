@@ -1,0 +1,82 @@
+CSS
+/* Add your own styles here */
+.weather-header {
+color: white;
+}
+
+.weather-search {
+width: 100%;
+border-radius: 5px;
+padding: 10px;
+font-size: 1rem;
+border: 1px solid gray;
+}
+
+.search-button {
+background-color: #007bff;
+color: white;
+border: none;
+border-radius: 5px;
+padding: 10px;
+font-size: 1rem;
+}
+
+.weather-hr {
+margin-top: 0.5rem;
+margin-bottom: 0.5rem;
+}
+
+.list-group-item {
+cursor: pointer;
+}
+
+.list-group-item:hover {
+background-color: #f8f9fa;
+}
+
+.card {
+margin-bottom: 1rem;
+}
+
+.card-header {
+background-color: #007bff;
+color: white;
+}
+
+.card-body {
+padding: 1rem;
+}
+
+.card-title {
+font-size: 1.5rem;
+margin-bottom: 0;
+}
+
+.card-text {
+margin-bottom: 0;
+}
+
+.forecast-card {
+margin-right: 1rem;
+}
+
+@media screen and (max-width: 767px) {
+.weather-header {
+font-size: 2rem;
+}
+.form-label {
+font-size: 1.5rem;
+}
+.weather-search {
+font-size: 1.5rem;
+}
+.search-button {
+font-size: 1.5rem;
+}
+.card-title {
+font-size: 1.2rem;
+}
+.card-text {
+font-size: 1rem;
+}
+}
